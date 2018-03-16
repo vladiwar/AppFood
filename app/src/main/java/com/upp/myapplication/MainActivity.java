@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //Montiel_Garcia_Joseph_Vladimir_Copiado
-    //Enrique Chavez Rosas_ Copiado
+    //Enrique Chavez Rosas_ Copiado xD
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
