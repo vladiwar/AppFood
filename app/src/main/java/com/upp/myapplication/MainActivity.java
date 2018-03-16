@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Montiel_Garcia_Joseph_Vladimir
+    //Montiel_Garcia_Joseph_Vladimir_Copiado
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
